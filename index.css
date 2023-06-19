@@ -1,0 +1,30 @@
+body 
+
+.title {
+  color: #20bbd0;
+  font-size: 40px;
+  font-family: fantasy, sans-serif;
+  margin-bottom: 0;
+}
+
+.img-home {
+  width: 500px;
+  padding: 50px;
+}
+
+.btn-search {
+  background-color: #00dbf4;
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(167, 27, 169, 0.5);
+  font-size: 18.005px;
+  padding-left: 1.528em;
+  padding-right: 1.528em;
+  padding-top: 0;
+  padding-bottom: 0;
+  min-height: 2.778em;
+  border: none;
+  cursor: pointer;
+}
+.change-background {
+  background-color: rgb(212, 212, 110);
+}
